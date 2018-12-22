@@ -1,6 +1,6 @@
 Assets: http://bit.ly/flappybirdstyle
 
-Starting Project
+Getting Started
 1. Create new 2D project
 2. Name it (name)FlappyBird
 3. Import assets downloaded
@@ -50,6 +50,7 @@ Bird Scripting
 7. Save & test
     1. Students should now be able to have bird flap with mouse button
 8. Save scene & project
+
 Bird death on ground touch
 1. Return to Bird Script
 2. Live Code Bird Script part 2
@@ -58,6 +59,7 @@ Bird death on ground touch
 3. Save & test
     1. Bird should not be able to fly after touching ground
 4. Save project & scene
+
 Animating the bird
 1. In project folder, create new folder called Animation
 2. Select Bird game object
@@ -118,6 +120,7 @@ Animating the bird
 40. Save & Test
     1. Flap animation and die animation should play
 41. Save Scene & Project
+
 Score & GameOver UI Setup
 1. Close Animation & Animator tab
 2. On scene tab, zoom out to see outside of the game view
@@ -143,6 +146,7 @@ Score & GameOver UI Setup
 21. Use Rect Transform Pos Y and adjust to be lower than GameOverText
 22. Click on GameOverText and disable the UI component for now with the checkbox next to the name
 23. Save Scene & Project
+
 Adding Game Controller
 1. Create new Empty Game Object
 2. Rename to GameController
@@ -159,6 +163,7 @@ Adding Game Controller
 12. Text
     1. When bird dies, able to flap and it will reset again
 13. Save scene & project
+
 Scrolling Repeating Background
 1. Select Ground
 2. Add Rigidbody 2D component to Ground
@@ -195,4 +200,5 @@ Scrolling Repeating Background
     2. When player dies, both ground game objects stop
     3. Bird should not slide on ground
 27. Save scene & project
+
 Adding Columns
